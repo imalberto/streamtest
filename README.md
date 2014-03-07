@@ -17,4 +17,6 @@ Tried with the following browsers:
 - Does not work with most current Chrome Version: 33.0.1750.146
 - Does not work with Chromium Version: 33.0.1750.117 (0)
 - Works with Chromium Version: 30.0.1599.101 (227552)
+- Works with Safari Version 7.0.2 (9537.74.9)
+- Works with Firefox 27.0.1
 
