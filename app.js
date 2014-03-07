@@ -21,6 +21,7 @@ app.use(express.logger());
 
 function getData(ln) {
     return 'One line status here [' + ln + ']\n';
+    // return '<div>One line status here [' + ln + ']<div>';
 }
 
 function run(req, res) {

@@ -10,6 +10,11 @@ Simple express app to debug streaming in latest Chrome (33.x) version.
     npm i
     npm start
 
-    Go to http://localhost:8666/stream (Try Firefox, then Chrome)
+    Go to http://localhost:8666/stream 
 
+Tried with the following browsers:
+
+- Does not work with most current Chrome Version: 33.0.1750.146
+- Does not work with Chromium Version: 33.0.1750.117 (0)
+- Works with Chromium Version: 30.0.1599.101 (227552)
 
